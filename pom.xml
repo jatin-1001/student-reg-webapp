@@ -24,7 +24,7 @@
     <distributionManagement>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://54.226.191.243:8081/repository/test/</url>
+			<url>http://34.238.239.167:8081/repository/jatin/</url>
 		</snapshotRepository>
     </distributionManagement>
 
